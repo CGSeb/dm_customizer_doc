@@ -1,6 +1,8 @@
 site_name: DM Customizer documentation
 theme:
   name: material
+  favicon: images/DMCLogo.png
+  logo: images/DMCLogo.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
