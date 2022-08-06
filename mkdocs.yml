@@ -1,8 +1,8 @@
 site_name: DM Customizer documentation
 theme:
   name: material
-  favicon: images/DMCLogo.png
-  logo: images/DMCLogo.png
+  favicon: images/DMCLogoTransparent.png
+  logo: images/DMCLogoTransparent.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -29,7 +29,3 @@ markdown_extensions:
   - attr_list
 extra_css:
   - stylesheets/extra.css
-
-extra:
-  version:
-    provider: mike
